@@ -1,0 +1,6 @@
+{
+  "name": "BuildSource Trading",
+  "description": "Premium industrial & construction material trading platform, quote generator, product catalog, interactive location maps, and full admin management dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
